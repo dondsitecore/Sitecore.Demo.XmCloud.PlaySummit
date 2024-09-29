@@ -1,0 +1,30 @@
+﻿---
+ID: "385493d5-811e-413a-aa2f-ddd8522a6874"
+Parent: "ab9b8d3d-33c5-482c-9b9e-c79c4cd60c47"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/PLAY/playwebsite/Data/Promos/Glock Promos/Follow the Four
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+      Hint: PromoText2
+      Value: <p>When handling, maintaining and storing a firearm, it’s important to always remember to follow the four primary rules of gun safety.</p>
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: <p>Take the Pledge</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c13ede8b-8a1c-42bb-a1e8-7b3c33ea9d6b"
+    - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
+      Hint: PromoText3
+      Value: <p>Join the firearm safety initiative with Glock©</p>
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link url="https://followthefour.com/" text="Follow the Four" title="" target="" linktype="external"/>
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <Image mediaid="e5fabb28-31a6-4fac-b01f-d0d643b9db65" alt="Artboard 1"/>

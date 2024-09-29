@@ -1,0 +1,13 @@
+﻿---
+ID: "731f6050-2d9b-4a17-b891-9a5e89f84c49"
+Parent: "ab9b8d3d-33c5-482c-9b9e-c79c4cd60c47"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/PLAY/playwebsite/Data/Promos/Glock Promos/Pursue your Perfection
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72934117-fb3c-45f2-81fa-4c0eedea78f3"
