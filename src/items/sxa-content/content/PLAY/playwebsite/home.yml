@@ -172,11 +172,26 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{74A3507D-B718-58C6-8C54-5DFA30D2A4E8}">
+              <p:d />
+            </r>
+            <r
+              uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}">
+              <p:d />
+            </r>
+            <r
               uid="{C172EAF7-B4E9-4606-A6E8-7E1B6907387B}"
-              p:after="r[@uid='{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}']"
+              p:after="r[@uid='{EB2C8403-F00A-4976-8C26-75224DD8EBD1}']"
               s:ds="385493d5-811e-413a-aa2f-ddd8522a6874"
               s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
               s:par="ComponentName=Glock Promo Right&amp;ComponentConfiguration&amp;LibraryId={{libraryId}}&amp;ComponentId=PX04TeZ-n6&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=qAG3wCxTyu-clwV&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Glock Promo Right&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-main/container-1" />
+            <r
+              uid="{8177EF9B-7F27-48C8-8024-169E0AA17054}"
+              p:after="r[@uid='{C172EAF7-B4E9-4606-A6E8-7E1B6907387B}']"
+              s:ds="731f6050-2d9b-4a17-b891-9a5e89f84c49"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles=%7C%7B87E4CA1A-14C9-4D44-BD3C-898909EAB561%7D%7C%7BF2F5520E-36F0-4D8A-B4E6-35E0EDC712F1%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
               s:ph="/headless-main/sxa-main/container-1" />
           </d>
         </r>
@@ -191,7 +206,7 @@ Languages:
       Value: home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "41527fa7-9108-492f-8bfb-1db7dcb5328c"
+      Value: "9d191124-20fe-48f6-b693-9dda0e23e772"
 - Language: "fr-CA"
   Versions:
   - Version: 1
