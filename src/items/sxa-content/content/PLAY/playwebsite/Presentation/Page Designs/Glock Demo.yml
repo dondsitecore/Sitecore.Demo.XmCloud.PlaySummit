@@ -1,0 +1,21 @@
+﻿---
+ID: "fde99895-9930-48cc-b669-a4d2f7698090"
+Parent: "2dc25a94-3fd5-4a15-88a5-fa038cb3d035"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/PLAY/playwebsite/Presentation/Page Designs/Glock Demo
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "e625fa9f-4538-4eff-8075-dd699845f998|dec14166-5327-4c62-a637-2f1191f38826|b10c217c-d96e-4caf-863f-2d4a18c72335"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{74895801-4812-405B-B262-8320ABEDEA07}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a36e920-82d5-4464-820c-84f70b62f83a"

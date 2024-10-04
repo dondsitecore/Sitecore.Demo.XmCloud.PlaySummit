@@ -1,0 +1,17 @@
+﻿---
+ID: "b27524cb-1467-4d32-afef-7e769565d4fd"
+Parent: "a2262103-5748-497a-b65d-8ea85a2997ce"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/PLAY/glock-inc/Presentation/Placeholder Settings/Partial Design/Header"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-header"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22f7e0c4-f7f0-468e-816d-0aaa012a73be"

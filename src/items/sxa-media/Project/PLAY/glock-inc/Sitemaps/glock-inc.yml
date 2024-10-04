@@ -1,0 +1,13 @@
+﻿---
+ID: "ebb74564-8dbb-4b28-9d8f-014b27b2ee54"
+Parent: "6f6e521d-2190-462f-8ecc-7e0343013bbb"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/PLAY/glock-inc/Sitemaps/glock-inc"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a14b9a3-bc83-40c3-9c28-1005ee450d23"

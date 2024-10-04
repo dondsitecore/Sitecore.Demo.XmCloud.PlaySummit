@@ -1,0 +1,13 @@
+﻿---
+ID: "1a3f1f6a-f34b-4044-b337-6e3fed31d813"
+Parent: "ae974815-9afd-4957-ac52-3495c732a607"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/PLAY/glock-inc/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0ba37cf-dd9a-4d73-8c8b-b80d0e097d7b"

@@ -1,0 +1,17 @@
+﻿---
+ID: "96913d5b-0553-4155-a135-5e04bb722f77"
+Parent: "1c1bbcd6-7771-4a55-8f03-c49ef03923cf"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/PLAY/glock-inc/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ee907ec-b9b9-4fcc-94f5-83b7337557c0"

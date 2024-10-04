@@ -1,0 +1,50 @@
+﻿---
+ID: "c1fc0865-2848-4852-b954-4859426f17ac"
+Parent: "ed45c05f-059d-4e4d-97df-abf7bc6178ae"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/PLAY/glock-inc/Presentation/Partial Designs/Footer"
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5E75BF12-159B-4126-8988-B8780899A8D4}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b3E5E9C90-A648-4F6B-BCC8-614ABFF45E8F%7d%7c%7b2324FA69-B99D-4963-97C1-49A286BAAA3A%7d%7c%7b5412E7F2-C4AC-4673-A48B-988DCE7A1233%7d%7c%7b53F4BF1F-B256-4E62-993A-08F78B67841C%7d%7c%7b7A6A5547-CE84-46ED-B5D5-2A3548071E15%7d%7c%7b6C6870F8-B84E-4C9C-B234-0A8AC4089228%7d%7c%7b932B9F9E-6126-45BC-8CFC-D65B815DF986%7d%7c%7b17CDAE21-3652-4265-A9D2-A308CAB51710%7d%7c%7b065E8FD0-D9CC-4B54-8BEE-B32473E80477%7d%7c%7bB7B704CA-3F9F-4C8F-87C4-AC9781F0B66F%7d%7c%7bAEC197AC-1A97-4176-A693-ED8716E1D114%7d%7c%7b40FC5026-FE63-4763-99E7-945506FA3403%7d%7c%7bABFE546C-8A08-48F1-B8C6-1A1EE094F14D%7d%7c%7b4C39D2B6-73DD-4AFB-8F15-115BAF9CFBDF%7d%7c%7b2C7A264B-B5DC-4232-95E3-423ABAB33C1A%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{E17F538C-12E5-4AC3-B6D2-9CA09EFDFDD9}"
+          p:after="r[@uid='{5E75BF12-159B-4126-8988-B8780899A8D4}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b6A7CDD3F-F836-4BAF-8A68-501383C3D131%7d&amp;FieldNames=%7b2BF77CE1-5B3A-4455-B9C4-DC9617967161%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{F7FA79E7-F207-438E-BCAE-612D24952FB1}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b6A7CDD3F-F836-4BAF-8A68-501383C3D131%7d&amp;FieldNames=%7b2BF77CE1-5B3A-4455-B9C4-DC9617967161%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0c5eea9-c0c4-46b5-827a-f4398d48def8"

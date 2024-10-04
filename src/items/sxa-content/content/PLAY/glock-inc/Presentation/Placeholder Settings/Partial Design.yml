@@ -1,0 +1,13 @@
+﻿---
+ID: "a2262103-5748-497a-b65d-8ea85a2997ce"
+Parent: "4f9e6b98-4d05-4d96-adc6-812f1029ddda"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/PLAY/glock-inc/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50e15e14-adc0-4e28-ba38-60276e75a3a9"

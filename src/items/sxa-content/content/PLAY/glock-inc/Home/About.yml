@@ -1,0 +1,50 @@
+﻿---
+ID: "cf8f57f1-8bcf-46c1-a9f5-45545e8d0b70"
+Parent: "d78ac174-07a5-4aa6-829c-82adafe3e68b"
+Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
+Path: "/sitecore/content/PLAY/glock-inc/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{2EEADCEB-C8F2-4B56-8217-0F239BA3D2AC}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8895C03E-1A6B-4E78-BE38-F53655616AEF}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b5412E7F2-C4AC-4673-A48B-988DCE7A1233%7d%7c%7b53F4BF1F-B256-4E62-993A-08F78B67841C%7d%7c%7b7A6A5547-CE84-46ED-B5D5-2A3548071E15%7d%7c%7b6C6870F8-B84E-4C9C-B234-0A8AC4089228%7d%7c%7b932B9F9E-6126-45BC-8CFC-D65B815DF986%7d%7c%7b17CDAE21-3652-4265-A9D2-A308CAB51710%7d%7c%7b065E8FD0-D9CC-4B54-8BEE-B32473E80477%7d%7c%7bB7B704CA-3F9F-4C8F-87C4-AC9781F0B66F%7d%7c%7bAEC197AC-1A97-4176-A693-ED8716E1D114%7d%7c%7b40FC5026-FE63-4763-99E7-945506FA3403%7d%7c%7bABFE546C-8A08-48F1-B8C6-1A1EE094F14D%7d%7c%7b4C39D2B6-73DD-4AFB-8F15-115BAF9CFBDF%7d%7c%7b2C7A264B-B5DC-4232-95E3-423ABAB33C1A%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{0BB8F4AC-4964-4B56-AFF8-6082A24CBCCF}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b2BF77CE1-5B3A-4455-B9C4-DC9617967161%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
+      Hint: Title
+      Value: About
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93de2f4f-ca44-4147-bf89-9d0ef762008e"

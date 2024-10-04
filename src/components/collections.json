@@ -396,6 +396,80 @@
     "components": [
       {
         "libraryId": "generated",
+        "id": "syjwXTO3l1",
+        "collectionId": "POe-GHtHEr",
+        "name": "Glock Footer",
+        "description": "",
+        "status": "published",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-10-02T19:32:30.308Z",
+        "stagedAt": "2024-10-02T19:57:56.05Z",
+        "publishedAt": "2024-10-02T19:57:56.05Z",
+        "modifiedAt": "2024-10-02T19:57:56.05Z",
+        "modifiedBy": {
+          "id": "639339fc9e9ba948e34cf9e5",
+          "name": "Don Dutton",
+          "email": "don.dutton@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/d1d03c098934e08f621d5dbe5851cdbe?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fdo.png",
+          "givenName": "Don",
+          "familyName": "Dutton"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "syjwXTO3l1",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-10-02T19:32:43.659Z",
+            "modifiedAt": "2024-10-02T19:32:43.659Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
+        "id": "qIFtADGYly",
+        "collectionId": "POe-GHtHEr",
+        "name": "Header",
+        "description": "",
+        "status": "published",
+        "versionCount": 3,
+        "stagedVersionCount": 3,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-10-02T18:59:23.032Z",
+        "stagedAt": "2024-10-02T19:55:28.711Z",
+        "publishedAt": "2024-10-02T19:55:28.711Z",
+        "modifiedAt": "2024-10-02T19:55:28.711Z",
+        "modifiedBy": {
+          "id": "639339fc9e9ba948e34cf9e5",
+          "name": "Don Dutton",
+          "email": "don.dutton@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/d1d03c098934e08f621d5dbe5851cdbe?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fdo.png",
+          "givenName": "Don",
+          "familyName": "Dutton"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "qIFtADGYly",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-10-02T18:59:32.927Z",
+            "modifiedAt": "2024-10-02T18:59:32.927Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
         "id": "PX04TeZ-n6",
         "collectionId": "POe-GHtHEr",
         "name": "Glock Promo Right",

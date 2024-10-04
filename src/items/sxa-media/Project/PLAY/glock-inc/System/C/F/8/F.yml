@@ -1,0 +1,13 @@
+﻿---
+ID: "6fc851ed-c053-4862-b09c-0b427e7873c1"
+Parent: "e531a6f7-351e-4845-b6ed-a07d66e17127"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/PLAY/glock-inc/System/C/F/8/F"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44edf1e1-94bb-4d62-a4ca-9cf37869d070"

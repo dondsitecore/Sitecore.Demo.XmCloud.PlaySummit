@@ -1,0 +1,18 @@
+﻿---
+ID: "d7b94ddd-fb32-45f6-8b6f-b306cfa36d53"
+Parent: "e1841661-bacd-4d53-aa38-fc5f5213f071"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/PLAY/glock-inc/Presentation/Headless Variants/Title/Default"
+BranchID: "3f7de82f-366f-4708-a1fe-9b0a42862492"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{17537200-43DF-4384-85AD-8C795BB461E6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d5bb656-c9bf-4ffd-8f9d-f94afc21ea7f"

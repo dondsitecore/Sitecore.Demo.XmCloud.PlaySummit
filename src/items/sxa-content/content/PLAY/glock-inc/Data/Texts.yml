@@ -1,0 +1,13 @@
+﻿---
+ID: "7fb3741d-1e37-477d-a5ec-4286e6a0e1de"
+Parent: "ae974815-9afd-4957-ac52-3495c732a607"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/PLAY/glock-inc/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "530a4c4c-8ec0-463e-9472-f03a871209a5"

@@ -7,8 +7,8 @@ SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
-    {A0B55352-CE72-4550-BABC-349DBFDB8199}
     {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+    {99F516FF-A327-4EFA-B5D8-054F3963BB81}
 Languages:
 - Language: en
   Versions:
@@ -19,4 +19,4 @@ Languages:
       Value: $name
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b725257f-d2cb-4082-80ee-9a9b092ccf61"
+      Value: "d23205e4-ff11-4c39-855a-f597fd0b574d"

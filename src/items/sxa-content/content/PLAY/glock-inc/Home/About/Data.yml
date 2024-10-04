@@ -1,0 +1,18 @@
+﻿---
+ID: "02fe4645-0047-4ea6-a0bf-f31397b77be6"
+Parent: "cf8f57f1-8bcf-46c1-a9f5-45545e8d0b70"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/PLAY/glock-inc/Home/About/Data"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{7AF2436A-59FD-4AFF-AA13-898EFB8644B0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d74bcf9-81bd-44b4-9867-68cc3b434537"

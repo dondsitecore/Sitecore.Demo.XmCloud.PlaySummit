@@ -1,0 +1,17 @@
+﻿---
+ID: "1462f256-b97a-43c6-99a9-5554259e8e27"
+Parent: "4808f00f-29cc-49a6-9a56-da18407a6945"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/PLAY/playwebsite/Presentation/Placeholder Settings/Partial Design/Glock Footer
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-glock-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9b1aa5a-e51d-435b-93ab-59d943658860"
