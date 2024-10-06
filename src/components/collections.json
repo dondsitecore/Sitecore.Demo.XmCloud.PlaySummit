@@ -7,7 +7,45 @@
     "orderIdx": "",
     "createdAt": "2023-03-06T08:07:37.932Z",
     "modifiedAt": "2023-03-06T08:07:37.932Z",
-    "components": []
+    "components": [
+      {
+        "libraryId": "generated",
+        "id": "Bai3tr4KPV",
+        "collectionId": "default",
+        "name": "Promo Component",
+        "description": "",
+        "status": "changed",
+        "versionCount": 1,
+        "stagedVersionCount": 0,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-10-04T14:18:24.429Z",
+        "stagedAt": null,
+        "publishedAt": null,
+        "modifiedAt": "2024-10-04T14:29:54.64Z",
+        "modifiedBy": {
+          "id": "639339fc9e9ba948e34cf9e5",
+          "name": "Don Dutton",
+          "email": "don.dutton@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/d1d03c098934e08f621d5dbe5851cdbe?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fdo.png",
+          "givenName": "Don",
+          "familyName": "Dutton"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "Bai3tr4KPV",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-10-04T14:18:32.394Z",
+            "modifiedAt": "2024-10-04T14:18:32.394Z"
+          }
+        ]
+      }
+    ]
   },
   {
     "libraryId": "generated",
@@ -417,19 +455,7 @@
           "givenName": "Don",
           "familyName": "Dutton"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "syjwXTO3l1",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-10-02T19:32:43.659Z",
-            "modifiedAt": "2024-10-02T19:32:43.659Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -443,7 +469,7 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2024-10-02T18:59:23.032Z",
-        "stagedAt": "2024-10-02T19:55:28.711Z",
+        "stagedAt": "2024-10-02T19:52:56.459Z",
         "publishedAt": "2024-10-02T19:55:28.711Z",
         "modifiedAt": "2024-10-02T19:55:28.711Z",
         "modifiedBy": {
@@ -454,19 +480,7 @@
           "givenName": "Don",
           "familyName": "Dutton"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "qIFtADGYly",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-10-02T18:59:32.927Z",
-            "modifiedAt": "2024-10-02T18:59:32.927Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
