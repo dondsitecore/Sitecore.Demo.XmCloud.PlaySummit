@@ -1,0 +1,44 @@
+﻿---
+ID: "6c30ca1d-5f1d-4298-a536-8121306698ab"
+Parent: "bfbe0e45-b089-4b33-abc0-0ba52e7c905f"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Project/PLAY/play-summit/Sitemaps/play-summit/sitemap"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/cube_molecule.png
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "be5bb18e-2714-44cb-b02c-5bb6fd1a6e97"
+  Value: 
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 0
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/xml
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 1
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: xml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2fafe7cb-2691-4800-8848-255efa1d31aa"
+      Hint: Keywords
+      Value: |
+        sd:{5379C679-F563-4F49-9700-8808260E0F02}
+        site:{89900444-4F67-436E-A6CF-001FF235C873}
+    - ID: "3f4b20e9-36e6-4d45-a423-c86567373f82"
+      Hint: Title
+      Value: sitemap
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b17e3f34-e700-4fda-98ac-5a3907984289"
+    - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
+      Hint: Description
+      Value: Sitecore Experience Accelelator sitemap file

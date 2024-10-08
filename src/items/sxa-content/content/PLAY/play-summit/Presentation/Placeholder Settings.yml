@@ -1,0 +1,18 @@
+﻿---
+ID: "858deb85-b820-4e71-85ca-752163a2d97e"
+Parent: "60f59b77-cb9e-4500-af01-7402a063f9ad"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/PLAY/play-summit/Presentation/Placeholder Settings"
+BranchID: "464d8f5a-4cf5-449d-bbe8-9c2005af65e6"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C8F02ED4-0933-4D4D-B1C9-79A58E252BBF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e98f4ef1-995e-4489-be46-22962830cf11"

@@ -1,0 +1,64 @@
+﻿---
+ID: "1e6f3ab8-00ec-49cf-8e88-471b0a189f25"
+Parent: "89900444-4f67-436e-a6cf-001ff235c873"
+Template: "99f516ff-a327-4efa-b5d8-054f3963bb81"
+Path: "/sitecore/content/PLAY/play-summit/Home"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{5C81E5AF-0E20-4A94-A419-932E08FE56EC}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{7388430B-575D-4253-AAD8-BEEB6E720719}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?DynamicPlaceholderId=1&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d"
+          s:ph="headless-main" />
+        <r
+          uid="{72EFEF55-C84A-430F-8634-3784D92C585A}"
+          p:after="r[@uid='{7388430B-575D-4253-AAD8-BEEB6E720719}']"
+          s:ds="local:/Data/Text 2"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bB59E0942-7A64-4DC0-B25E-BB532E5097F8%7d&amp;FieldNames=%7bF485AE73-084C-48AD-8D22-5845AB7050D9%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b271DE3B1-089F-4977-95EC-B5E51446FC01%7d%7c%7b1B189E02-FFC9-4ADC-84E5-D2AB5F6EC0FB%7d"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{6FB106D3-3698-4ECB-9869-BBE6EDF02FC6}"
+          p:after="r[@uid='{72EFEF55-C84A-430F-8634-3784D92C585A}']"
+          s:ds="local:/Data/PromoLeft"
+          s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+          s:par="?Styles=%7b3A6ABAD5-3295-4C3B-B10D-3EB1BE5CD75F%7d&amp;FieldNames=%7b098948AC-AF37-4EFF-A753-17A08DF6D1C2%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d%7c%7b41E4B2ED-E813-46F9-8455-C26C88E78D47%7d%7c%7b1D84575C-B71C-40B2-BE7E-65503BCD666E%7d"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{229AC343-D6FE-4257-ABF0-139A08CD7EC2}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/PromoRight"
+          s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+          s:par="?Styles=%7b3A6ABAD5-3295-4C3B-B10D-3EB1BE5CD75F%7d%7c%7b7245F863-3AB7-4BF9-B966-10C1133E6B9F%7d&amp;FieldNames=%7b098948AC-AF37-4EFF-A753-17A08DF6D1C2%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d%7c%7b41E4B2ED-E813-46F9-8455-C26C88E78D47%7d%7c%7b1D84575C-B71C-40B2-BE7E-65503BCD666E%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1a6ffaba-0906-49f6-bd5e-e734d3a473da"
+      Hint: Title
+      Value: Home
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Home
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab7f3ed9-41e7-4da9-8011-e726eb1ce3f9"

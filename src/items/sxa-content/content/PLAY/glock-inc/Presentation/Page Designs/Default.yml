@@ -7,6 +7,10 @@ SharedFields:
 - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
   Hint: PartialDesigns
   Value: "{C1FC0865-2848-4852-B954-4859426F17AC}|{D8BD785F-1747-46FA-BDA7-B8C6CBCE9412}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{2036B5F8-5895-49A2-A91B-B984AA03C0A6}" />
 Languages:
 - Language: en
   Versions:
@@ -14,4 +18,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4f42335c-db79-43db-bc2b-2818403bc0d3"
+      Value: "fa74d1c2-189e-4b2f-aa1b-eae1f2d46120"

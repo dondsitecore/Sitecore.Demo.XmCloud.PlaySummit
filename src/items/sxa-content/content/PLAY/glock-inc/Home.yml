@@ -3,12 +3,11 @@ ID: "d78ac174-07a5-4aa6-829c-82adafe3e68b"
 Parent: "8eaca8be-57db-4c12-8a72-76193c9b218b"
 Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
 Path: "/sitecore/content/PLAY/glock-inc/Home"
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{F5EB3F43-CFE1-4F19-A374-2CFF796607A8}" />
+    <image mediaid="{181D77F2-890E-4908-A47B-A67B7C3D7A59}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -75,4 +74,4 @@ Languages:
       Value: Home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a1d4c9a3-380c-42b4-915b-7b4c7c42950d"
+      Value: "63af4d21-79f1-416e-be93-f34b90ae9a2b"

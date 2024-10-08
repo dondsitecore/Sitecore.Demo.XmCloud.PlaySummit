@@ -1,0 +1,13 @@
+﻿---
+ID: "164d83cd-5c1b-4695-89d1-7c660895899b"
+Parent: "bd0c04da-4be2-4764-aa64-fda4f6c92f2e"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: "/sitecore/content/PLAY/play-summit/Data/Images"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "568f68d5-81db-43e1-9206-f5eee067cae3"

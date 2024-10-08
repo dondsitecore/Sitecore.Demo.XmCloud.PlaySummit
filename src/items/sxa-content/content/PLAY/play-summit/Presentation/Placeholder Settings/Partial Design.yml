@@ -1,0 +1,13 @@
+﻿---
+ID: "c6a97f59-2515-4103-ac3a-f6e146a6a8dc"
+Parent: "858deb85-b820-4e71-85ca-752163a2d97e"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/PLAY/play-summit/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e316198d-a392-401c-a9a6-446b02fdc78f"

@@ -31,19 +31,7 @@
           "givenName": "Don",
           "familyName": "Dutton"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "Bai3tr4KPV",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-10-04T14:18:32.394Z",
-            "modifiedAt": "2024-10-04T14:18:32.394Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },

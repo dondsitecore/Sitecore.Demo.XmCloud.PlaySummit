@@ -1,0 +1,13 @@
+﻿---
+ID: "0540ab80-100b-4776-9e18-5967a847945f"
+Parent: "80c96e69-8d2d-4ff0-ac14-14f2de2fb92b"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/PLAY/play-summit/System/1/E/6/F"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "009209bf-c860-47a9-a39b-3cf994c63a97"

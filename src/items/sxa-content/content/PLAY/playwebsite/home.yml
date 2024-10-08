@@ -10,6 +10,9 @@ SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: 
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{B73A117A-11C2-4B86-8A5C-4C7648EE87DE}"
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
@@ -19,7 +22,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{193034E3-656C-4F9B-A7A3-2B9932231A9B}" />
+    <image mediaid="{8BE727F4-ED31-4B3D-987B-915D0B7C4D99}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
@@ -206,7 +209,7 @@ Languages:
       Value: home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3fcaa169-841b-4b08-a8e2-d38f737de0bf"
+      Value: "41b61045-5422-4c96-b134-e457eeeca025"
 - Language: "fr-CA"
   Versions:
   - Version: 1

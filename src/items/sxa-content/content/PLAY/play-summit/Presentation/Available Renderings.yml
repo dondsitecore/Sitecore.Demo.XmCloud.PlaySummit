@@ -1,0 +1,18 @@
+﻿---
+ID: "161dc116-daf1-4f93-a115-20def8bc994d"
+Parent: "60f59b77-cb9e-4500-af01-7402a063f9ad"
+Template: "26ec1d18-11b2-4dd9-8326-f6115f4fd7eb"
+Path: "/sitecore/content/PLAY/play-summit/Presentation/Available Renderings"
+BranchID: "cf84730f-e724-48ff-b184-80b062af3db7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{10B60B73-66CD-4896-9F6D-9DDE5AE28C95}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ce5f54ba-e4a5-41a1-9a8a-389c4cf9952b"

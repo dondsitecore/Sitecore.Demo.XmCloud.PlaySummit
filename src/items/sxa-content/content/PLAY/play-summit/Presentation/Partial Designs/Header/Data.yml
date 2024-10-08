@@ -1,0 +1,18 @@
+﻿---
+ID: "bb5f84c9-24f7-4a51-a011-4918f3886d65"
+Parent: "c7bf6ee6-98b1-49fd-be88-2279df33108d"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/PLAY/play-summit/Presentation/Partial Designs/Header/Data"
+BranchID: "22684745-2aca-4b03-be30-62f90ff9d022"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D5DC3067-D6D4-4189-927F-E62A19C01319}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15450b48-2504-4f25-97db-0a9427f53b9f"

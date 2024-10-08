@@ -1,0 +1,13 @@
+﻿---
+ID: "0eae0e6e-ccdd-42a8-9f6f-2af27504e5b3"
+Parent: "5336e196-9609-4e35-984a-d448366458ac"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/PLAY/play-summit/Sitemaps"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4bf18d35-96e2-441c-a600-5f0bc6c0a35c"

@@ -3,7 +3,6 @@ ID: "d8bd785f-1747-46fa-bda7-b8c6cbce9412"
 Parent: "ed45c05f-059d-4e4d-97df-abf7bc6178ae"
 Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
 Path: "/sitecore/content/PLAY/glock-inc/Presentation/Partial Designs/Header"
-BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
 SharedFields:
 - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
   Hint: Signature
@@ -76,11 +75,11 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "38490f73-774b-421a-b519-a2b0150774f5"
+      Value: "27e27b18-3eba-4457-8939-ecb46cbda90b"
 - Language: "fr-CA"
   Versions:
   - Version: 1
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3c6f5864-7a3c-4100-8912-e00ea4a95d20"
+      Value: "ee74403b-2376-47ee-ab31-9e8fc4943129"

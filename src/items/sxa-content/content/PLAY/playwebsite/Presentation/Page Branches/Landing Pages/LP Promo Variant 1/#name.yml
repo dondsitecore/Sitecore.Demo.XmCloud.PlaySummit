@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{A3ED611A-8C45-45C2-909D-2F6002D6B8FB}" />
+    <image mediaid="{71BAB363-8D9D-4F60-A0AB-20344ED2797A}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -82,7 +82,7 @@ Languages:
       Value: <r />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "60f0a130-afe7-4c6a-91e8-723cec1b0e47"
+      Value: "262179ea-a170-42c1-9e31-4284dd73e7eb"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: <p>Morbi eu vehicula mi, a congue sapien. Mauris vitae leo lectus. Nam luctus urna molestie massa pellentesque, a porttitor augue varius. Duis dictum nisl metus, non luctus nunc accumsan non. Sed augue libero, condimentum mollis placerat in, tempus ut sapien. Praesent sed purus id sem convallis molestie vitae a ligula. Sed ac sodales velit. Donec fringilla, felis nec luctus auctor, lectus urna lacinia nisl, sit amet viverra eros ipsum eu libero. Nullam tincidunt nisl id magna dictum rhoncus. Aliquam erat volutpat. Duis commodo ante risus, eu lacinia diam porttitor non. Proin faucibus rutrum dolor, non dignissim ligula. Nam facilisis mi vehicula lacus dapibus molestie.</p>

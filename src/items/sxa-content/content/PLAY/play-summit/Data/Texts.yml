@@ -1,0 +1,13 @@
+﻿---
+ID: "15f532bf-8c08-4212-bee1-92e0298ee762"
+Parent: "bd0c04da-4be2-4764-aa64-fda4f6c92f2e"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/PLAY/play-summit/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5de05966-af82-4329-bb79-bd302f996b1e"

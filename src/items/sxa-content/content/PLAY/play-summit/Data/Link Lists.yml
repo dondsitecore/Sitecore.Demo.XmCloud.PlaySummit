@@ -1,0 +1,13 @@
+﻿---
+ID: "c1c9e79e-6020-45d5-b636-5805ed6b921c"
+Parent: "bd0c04da-4be2-4764-aa64-fda4f6c92f2e"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/PLAY/play-summit/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c96442d-59d0-44be-aae6-fd1aabfd04d7"

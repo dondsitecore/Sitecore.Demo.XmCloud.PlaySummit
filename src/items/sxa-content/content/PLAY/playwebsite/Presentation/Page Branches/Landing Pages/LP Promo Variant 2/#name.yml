@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{39F03A09-0E9A-4C6E-9151-CEE507999203}" />
+    <image mediaid="{0FF5AECC-7DA9-48D0-BF90-4F245D16C8F0}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -74,7 +74,7 @@ Languages:
       Value: <r />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8b3dcc12-256b-4558-8eaf-73fb9cf7b2d6"
+      Value: "9a755a31-cab6-410c-b2c3-142c4236fbaa"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: Nam posuere tincidunt orci in interdum. Proin at rutrum erat. Mauris tincidunt elit sed magna fermentum, id egestas tortor congue. Proin lobortis nulla eget enim bibendum, pulvinar hendrerit urna vehicula. Pellentesque aliquet maximus sapien id facilisis. Aliquam sed nibh ornare, rhoncus eros ut, feugiat nibh. Donec ac condimentum augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque fringilla urna nec ante pellentesque, ac vehicula augue pretium. Vestibulum elementum nisl mi, ut ornare risus convallis sodales. Sed vulputate felis quis nulla rhoncus, ut ultrices sem commodo. Curabitur gravida porttitor massa id blandit. Duis eget lobortis odio.
